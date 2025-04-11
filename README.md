@@ -7,4 +7,4 @@
 
 
 # Main Substance Designer Graph
-![Main Substance Designer Graph](main_batch_animation_graph-1.png)
+![Main Substance Designer Graph](https://user-images.githubusercontent.com/your-image-path/graph-preview.png)
