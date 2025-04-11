@@ -1,0 +1,1 @@
+# Substance-Designer_Batch_Export_Animations
